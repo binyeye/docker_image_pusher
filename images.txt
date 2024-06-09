@@ -1,4 +1,3 @@
-alpine
 stilleshan/frps
 adolfintel/speedtest
 
